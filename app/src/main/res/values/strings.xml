@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab8-Databases</string>
+    <string name="task">Enter a task: </string>
+    <string name="recv_task">Task: </string>
+    <string name="press">Press</string>
+    <string name="submit">Submit</string>
+    <string name="recieve">Retrieve</string>
+    <string name="action_settings">Settings</string>
+</resources>
