@@ -6,18 +6,12 @@ A simple database Android application I did during college.
 
 ### Screenshot One:
 
-<div style="text-align: center;">
-    <img src="images/homeScreen.png" width="300"/>
-</div>
+<img src="images/homeScreen.png" width="300"/>
 
 ### Screenshot Two:
 
-<div style="text-align: center;">
-    <img src="images/addMovie.png" width="300"/>
-</div>
+<img src="images/addMovie.png" width="300"/>
 
 ### Screenshot Three:
 
-<div style="text-align: center;">
-    <img src="images/editMovie.png" width="300"/>
-</div>
+<img src="images/editMovie.png" width="300"/>
